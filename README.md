@@ -62,3 +62,9 @@ class Team {
 ```
 
 ---
+
+### Generator`s
+
+[![Build status](https://ci.appveyor.com/api/projects/status/u19x1worcj0oed30/branch/main?svg=true)](https://ci.appveyor.com/project/222Alexa44925/ajs-11-2-mwdju/branch/main)
+
+---
